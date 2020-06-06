@@ -1,0 +1,29 @@
+td {
+	font-size: 11px;
+	font-family: verdana;
+	line-height:15px;
+	}
+	
+	a {
+		text-decoration: none;
+		color: #858DA1;
+	}
+	
+	a:hover {
+		color: black;
+		text-decoration: underline;
+	}
+
+	.borders {
+	
+	border: white solid 1px;
+	border-bottom-color: #A2A9B9;
+	border-right-color: #A2A9B9;
+
+	
+	}
+	
+	.stopka {
+	color: white;
+
+	}
