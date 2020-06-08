@@ -27,3 +27,6 @@ td {
 	color: white;
 
 	}
+test {
+	display: flex;
+	}
